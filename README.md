@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋, I'm Andy!</h1>
+
+<p align='center'>
+  I live in Perth, Australia and work at <strong>Optimise Online</strong>
+</p>
+
 - 🔭 I’m currently working on a task management system
 - 🌱 I’m currently learning AngularJS
 - 👯 I’m looking to collaborate on any open PHP opportunities
