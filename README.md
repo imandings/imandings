@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Andy!</h1>
 
 <p align='center'>
-  I live in Perth, Australia and work at <strong>Optimise Online</strong>
+  I live in Perth, Western Australia and work at <strong>Optimise Online</strong> as a Technical Specialist focused on Website Development, Technical SEO and Internal IT Support.
 </p>
 
 - 🔭 I’m currently working on a task management system
