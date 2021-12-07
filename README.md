@@ -4,7 +4,7 @@
   I live in Perth, Western Australia and work at <strong>Optimise Online</strong> as a Technical Specialist focused on Website Development, Technical SEO and Internal IT Support.
 </p>
 
-- 🔭 I’m currently working on a task management system
+- 🔭 I’m currently working on a bunch of projects in my spare time.
 - 🌱 I’m currently learning AngularJS
 - 👯 I’m looking to collaborate on any open PHP opportunities
 - 🤔 I’m looking for help with AngularJS
