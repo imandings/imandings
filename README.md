@@ -12,6 +12,6 @@
 - 📫 How to reach me: Socials and stuff on my profile.
 - ⚡ Fun fact: I used to play Rugby for roughly 7 years and fracutred my foot so I stopped playing. Been coding since I was 11, I'm now..... Old.
 
-|![Andy's Github Stats](https://githubstats-git-main-imandings.vercel.app/api?username=imandings&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)|![Top Langs](https://githubstats-git-main-imandings.vercel.app/api/top-langs/?username=imandings&layout=compact&theme=dracula&langs_count=10)|
+|![Andy's Github Stats](https://githubstats-git-main-imandings.vercel.app/api?username=imandings&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)|![Top Langs](https://githubstats-git-main-imandings.vercel.app/api/top-langs/?username=imandings&layout=compact&theme=dracula&langs_count=8)|
 |:-:|:-:|
 |[![Wakatime Stats](https://githubstats-git-main-imandings.vercel.app/api/wakatime?username=imandings&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)|Something else|
