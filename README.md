@@ -36,4 +36,4 @@
 
 |![Andy's Github Stats](https://githubstats-git-main-imandings.vercel.app/api?username=imandings&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)|![Top Langs](https://githubstats-git-main-imandings.vercel.app/api/top-langs/?username=imandings&layout=compact&theme=dracula&langs_count=8)|
 |:-:|:-:|
-|[![Wakatime Stats](https://githubstats-git-main-imandings.vercel.app/api/wakatime?username=imandings&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)|&nbsp;|
+|&nbsp;|&nbsp;|
