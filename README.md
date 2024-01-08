@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/imandings" target="blank"><img src="https://img.shields.io/twitter/follow/imandings?logo=twitter&style=for-the-badge" alt="imandings" /></a> </p>
 
-- 🔭 I’m currently working on [HabboQuests](https://habboquests.co)
+- 🔭 I’m currently working on [HabboQuests](https://habboquests.co) and [InvisionFun](https://invisionfun.com)
 
 - 💬 Ask me about **Anything!**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Socials and stuff on my profile**
 
-- ⚡ Fun fact **I used to play Rugby for roughly 7 years and fracutred my foot so I stopped playing. Been coding since I was 11, I'm now..... Old.**
+- ⚡ Fun fact **I used to play Rugby for roughly 7 years and fractured my foot, so I stopped playing. Been coding since I was 11, and I'm now..... Old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
